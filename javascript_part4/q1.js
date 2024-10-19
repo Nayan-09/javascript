@@ -12,3 +12,6 @@ for(let i=2; i<arr.length; i++)
     }
 }
 console.log(arr);
+
+//The splice method in JavaScript is used to change the contents of an array by removing, replacing, or adding elements. 
+//It modifies the original array and returns an array containing the removed elements, if any.
